@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python, c++, machine learning and data analsyis, cloud
 - 💞️ I’m looking to collaborate on code and tech 
 - 📫 How to reach me write to me here you can comment on this file
-- I participate in the [Open Source Developer Course](https://osdc.code-maven.com/osdc-2023-01-public/)
+- I participated in the [Open Source Developer Course](https://osdc.code-maven.com/osdc-2023-01-public/)
 
 
 <!---
