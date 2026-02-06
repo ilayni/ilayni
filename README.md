@@ -3,7 +3,7 @@
 - I am builidng with gen ai, vibe coding and latest tech.
 - 🌱 I led and managed groups of 15 engineers with teams acorss the globe 🌎
 - I have exprince with SAAS products, Cloud best practices, microservices, obervabilty, SDLC.
-_ I Lectured and built technial content for conferences and univercities in Israel and Us.
+- I Lectured and built technial content for conferences and univercities in Israel and Us.
 - I’m Familiar with golang.
 - 💞️ I’m looking to collaborate on code and tech 
 - 📫 How to reach me write to me here you can comment on this file, or thorught my linkedin.
